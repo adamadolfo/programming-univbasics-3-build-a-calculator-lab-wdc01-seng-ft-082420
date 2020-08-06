@@ -19,7 +19,8 @@ total
 end
 
 def modulo(num1, num2)
-
+total = num1 % num2
+total
 end
 
 def square_root(num)
